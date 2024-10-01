@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+.img{
+    height: 750px;
+    text-align: center;
+
+}
+#myid{
+    background-color:gray;
+    color: white;
+}
